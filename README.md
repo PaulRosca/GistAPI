@@ -10,3 +10,6 @@ By clicking a Gist the user will be redirected to the "raw_url" of the first fil
 - Improving overall styling (colors, shadows etc)
 - Tweaking the throttle function used to query the API
 - Offer the possiblity to access any file content of a Gist (currently we always redirect to the content of the first file)
+
+## Mentions
+For querying the API I've used a personal access token from Github to avoid rate limiting, the token contained in the project was revoked prior to uploading the project to Github.
