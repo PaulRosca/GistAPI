@@ -1,6 +1,6 @@
 import { Octokit } from "octokit";
 const octokit = new Octokit({
-  auth: "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"
+  // auth: "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"
 });
 
 export const searchUserGist = async (username) => {
