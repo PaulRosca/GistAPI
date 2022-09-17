@@ -1,0 +1,14 @@
+.fork-image {
+    width: 5rem;
+    border-radius: 1rem;
+}
+.fork-username {
+    display: flex;
+    justify-content: center;
+    color: #464646;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.fork {
+    margin: 0rem 0.5rem;
+}
